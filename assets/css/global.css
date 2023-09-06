@@ -1,0 +1,112 @@
+.contacts {
+  position: absolute;
+  top: 32px;
+  left: 28px;
+  display: inline-block;
+  font-weight: 700;
+  width: 162px;
+  height: 29px;
+}
+.p {
+  margin: 0;
+}
+.ab83563gmilcom-sukkur-sindh-container,
+.github {
+  position: absolute;
+  top: 86px;
+  left: 28px;
+  display: inline-block;
+  font-weight: 700;
+  width: 134px;
+  height: 205px;
+}
+.github {
+  top: 61px;
+  left: 259px;
+  width: 136px;
+  height: 192px;
+}
+.github-picture-1-icon {
+  position: absolute;
+  top: 86px;
+  left: 242px;
+  width: 79px;
+  height: 142px;
+  object-fit: cover;
+}
+.fiverr,
+.upwork {
+  position: absolute;
+  top: 63px;
+  left: 550px;
+  display: inline-block;
+  font-weight: 700;
+  width: 136px;
+  height: 192px;
+}
+.upwork {
+  top: 61px;
+  left: 454px;
+  width: 122px;
+}
+.upwork-picture-1-icon {
+  position: absolute;
+  top: 86px;
+  left: 454px;
+  width: 79px;
+  height: 142px;
+  object-fit: cover;
+}
+.linkedin {
+  position: absolute;
+  top: 61px;
+  left: 358px;
+  display: inline-block;
+  font-weight: 700;
+  width: 96px;
+  height: 192px;
+}
+.linkedin-picture-1-icon {
+  position: absolute;
+  top: 86px;
+  left: 358px;
+  width: 70px;
+  height: 142px;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: 291px;
+  left: 108px;
+  width: 533px;
+  height: 26px;
+  overflow: hidden;
+}
+.copyrightxyz {
+  position: absolute;
+  top: 288px;
+  left: 107px;
+  display: inline-block;
+  font-weight: 700;
+  width: 575px;
+  height: 29px;
+}
+.fiveer-picture-1-icon {
+  position: absolute;
+  top: 86px;
+  left: 576px;
+  width: 77px;
+  height: 136px;
+  object-fit: cover;
+}
+.contacts-parent {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 317px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
